@@ -1,0 +1,264 @@
+[
+  {
+    "match_id": 3825848,
+    "match_date": "2015-09-23",
+    "kick_off": "20:00:00.000",
+    "competition": {
+      "competition_id": 11,
+      "country_name": "Spain",
+      "competition_name": "La Liga"
+    },
+    "season": {
+      "season_id": 27,
+      "season_name": "2015/2016"
+    },
+    "home_team": {
+      "home_team_id": 221,
+      "home_team_name": "Levante UD",
+      "home_team_gender": "male",
+      "home_team_group": null,
+      "country": {
+        "id": 214,
+        "name": "Spain"
+      },
+      "managers": [
+        {
+          "id": 1612,
+          "name": "Luis Lucas Alcaraz Gonz\u00e1lez",
+          "nickname": "Lucas Alcaraz",
+          "dob": "1966-06-21",
+          "country": {
+            "id": 214,
+            "name": "Spain"
+          }
+        }
+      ]
+    },
+    "away_team": {
+      "away_team_id": 322,
+      "away_team_name": "Eibar",
+      "away_team_gender": "male",
+      "away_team_group": null,
+      "country": {
+        "id": 214,
+        "name": "Spain"
+      },
+      "managers": [
+        {
+          "id": 221,
+          "name": "Jos\u00e9 Luis Mendilibar Etxebarria",
+          "nickname": "Jos\u00e9 Luis Mendilibar",
+          "dob": "1961-03-14",
+          "country": {
+            "id": 214,
+            "name": "Spain"
+          }
+        }
+      ]
+    },
+    "home_score": 2,
+    "away_score": 2,
+    "match_status": "available",
+    "match_status_360": "unscheduled",
+    "last_updated": "2023-02-21T15:19:45.745471",
+    "last_updated_360": null,
+    "metadata": {
+      "data_version": "1.1.0",
+      "shot_fidelity_version": "2",
+      "xy_fidelity_version": "2"
+    },
+    "match_week": 5,
+    "competition_stage": {
+      "id": 1,
+      "name": "Regular Season"
+    },
+    "stadium": {
+      "id": 350,
+      "name": "Estadio Ciudad de Valencia",
+      "country": {
+        "id": 214,
+        "name": "Spain"
+      }
+    }
+  },
+  {
+    "match_id": 3825895,
+    "match_date": "2015-09-23",
+    "kick_off": "22:00:00.000",
+    "competition": {
+      "competition_id": 11,
+      "country_name": "Spain",
+      "competition_name": "La Liga"
+    },
+    "season": {
+      "season_id": 27,
+      "season_name": "2015/2016"
+    },
+    "home_team": {
+      "home_team_id": 208,
+      "home_team_name": "Las Palmas",
+      "home_team_gender": "male",
+      "home_team_group": null,
+      "country": {
+        "id": 214,
+        "name": "Spain"
+      },
+      "managers": [
+        {
+          "id": 745,
+          "name": "Francisco Herrera Lorenzo",
+          "nickname": "Paco Herrera",
+          "dob": "1953-12-02",
+          "country": {
+            "id": 214,
+            "name": "Spain"
+          }
+        }
+      ]
+    },
+    "away_team": {
+      "away_team_id": 213,
+      "away_team_name": "Sevilla",
+      "away_team_gender": "male",
+      "away_team_group": null,
+      "country": {
+        "id": 214,
+        "name": "Spain"
+      },
+      "managers": [
+        {
+          "id": 21,
+          "name": "Unai Emery Etxegoien",
+          "nickname": "Unai Emery",
+          "dob": "1971-11-03",
+          "country": {
+            "id": 214,
+            "name": "Spain"
+          }
+        }
+      ]
+    },
+    "home_score": 2,
+    "away_score": 0,
+    "match_status": "available",
+    "match_status_360": "unscheduled",
+    "last_updated": "2023-02-21T15:19:07.927548",
+    "last_updated_360": null,
+    "metadata": {
+      "data_version": "1.1.0",
+      "shot_fidelity_version": "2",
+      "xy_fidelity_version": "2"
+    },
+    "match_week": 5,
+    "competition_stage": {
+      "id": 1,
+      "name": "Regular Season"
+    },
+    "stadium": {
+      "id": 357,
+      "name": "Estadio de Gran Canaria",
+      "country": {
+        "id": 214,
+        "name": "Spain"
+      }
+    },
+    "referee": {
+      "id": 2728,
+      "name": "Carlos del Cerro Grande",
+      "country": {
+        "id": 214,
+        "name": "Spain"
+      }
+    }
+  },
+  {
+    "match_id": 3825894,
+    "match_date": "2016-05-01",
+    "kick_off": "18:15:00.000",
+    "competition": {
+      "competition_id": 11,
+      "country_name": "Spain",
+      "competition_name": "La Liga"
+    },
+    "season": {
+      "season_id": 27,
+      "season_name": "2015/2016"
+    },
+    "home_team": {
+      "home_team_id": 219,
+      "home_team_name": "RC Deportivo La Coru\u00f1a",
+      "home_team_gender": "male",
+      "home_team_group": null,
+      "country": {
+        "id": 214,
+        "name": "Spain"
+      },
+      "managers": [
+        {
+          "id": 3157,
+          "name": "V\u00edctor S\u00e1nchez del Amo",
+          "nickname": "V\u00edctor S\u00e1nchez",
+          "dob": "1976-02-23",
+          "country": {
+            "id": 214,
+            "name": "Spain"
+          }
+        }
+      ]
+    },
+    "away_team": {
+      "away_team_id": 216,
+      "away_team_name": "Getafe",
+      "away_team_gender": "male",
+      "away_team_group": null,
+      "country": {
+        "id": 214,
+        "name": "Spain"
+      },
+      "managers": [
+        {
+          "id": 1001036,
+          "name": "Juan Eduardo Esn\u00e1ider Bel\u00e9n",
+          "nickname": null,
+          "dob": "1973-03-05",
+          "country": {
+            "id": 11,
+            "name": "Argentina"
+          }
+        }
+      ]
+    },
+    "home_score": 0,
+    "away_score": 2,
+    "match_status": "available",
+    "match_status_360": "unscheduled",
+    "last_updated": "2022-08-30T12:53:16.828350",
+    "last_updated_360": null,
+    "metadata": {
+      "data_version": "1.1.0",
+      "shot_fidelity_version": "2",
+      "xy_fidelity_version": "2"
+    },
+    "match_week": 36,
+    "competition_stage": {
+      "id": 1,
+      "name": "Regular Season"
+    },
+    "stadium": {
+      "id": 4658,
+      "name": "Estadio Abanca-Riazor",
+      "country": {
+        "id": 214,
+        "name": "Spain"
+      }
+    },
+    "referee": {
+      "id": 1008,
+      "name": "Carlos Clos G\u00f3mez",
+      "country": {
+        "id": 214,
+        "name": "Spain"
+      }
+    }
+  }
+]

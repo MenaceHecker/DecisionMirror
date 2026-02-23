@@ -1,0 +1,542 @@
+[
+  {
+    "match_id": 3869321,
+    "match_date": "2022-12-09",
+    "kick_off": "21:00:00.000",
+    "competition": {
+      "competition_id": 43,
+      "country_name": "International",
+      "competition_name": "FIFA World Cup"
+    },
+    "season": {
+      "season_id": 106,
+      "season_name": "2022"
+    },
+    "home_team": {
+      "home_team_id": 941,
+      "home_team_name": "Netherlands",
+      "home_team_gender": "male",
+      "home_team_group": null,
+      "country": {
+        "id": 160,
+        "name": "Netherlands"
+      },
+      "managers": [
+        {
+          "id": 788,
+          "name": "Louis van Gaal",
+          "nickname": null,
+          "dob": "1951-08-08",
+          "country": {
+            "id": 160,
+            "name": "Netherlands"
+          }
+        }
+      ]
+    },
+    "away_team": {
+      "away_team_id": 779,
+      "away_team_name": "Argentina",
+      "away_team_gender": "male",
+      "away_team_group": null,
+      "country": {
+        "id": 11,
+        "name": "Argentina"
+      },
+      "managers": [
+        {
+          "id": 5677,
+          "name": "Lionel Sebasti\u00e1n Scaloni",
+          "nickname": null,
+          "dob": "1978-05-16",
+          "country": {
+            "id": 11,
+            "name": "Argentina"
+          }
+        }
+      ]
+    },
+    "home_score": 2,
+    "away_score": 2,
+    "match_status": "available",
+    "match_status_360": "available",
+    "last_updated": "2023-03-30T20:22:22.475740",
+    "last_updated_360": "2023-06-21T17:51:12.511460",
+    "metadata": {
+      "data_version": "1.1.0",
+      "shot_fidelity_version": "2",
+      "xy_fidelity_version": "2"
+    },
+    "match_week": 5,
+    "competition_stage": {
+      "id": 11,
+      "name": "Quarter-finals"
+    },
+    "stadium": {
+      "id": 1001114,
+      "name": "Lusail Stadium",
+      "country": {
+        "id": 185,
+        "name": "Qatar"
+      }
+    },
+    "referee": {
+      "id": 180,
+      "name": "Antonio Miguel Mateu Lahoz",
+      "country": {
+        "id": 214,
+        "name": "Spain"
+      }
+    }
+  },
+  {
+    "match_id": 3869685,
+    "match_date": "2022-12-18",
+    "kick_off": "17:00:00.000",
+    "competition": {
+      "competition_id": 43,
+      "country_name": "International",
+      "competition_name": "FIFA World Cup"
+    },
+    "season": {
+      "season_id": 106,
+      "season_name": "2022"
+    },
+    "home_team": {
+      "home_team_id": 779,
+      "home_team_name": "Argentina",
+      "home_team_gender": "male",
+      "home_team_group": null,
+      "country": {
+        "id": 11,
+        "name": "Argentina"
+      },
+      "managers": [
+        {
+          "id": 5677,
+          "name": "Lionel Sebasti\u00e1n Scaloni",
+          "nickname": null,
+          "dob": "1978-05-16",
+          "country": {
+            "id": 11,
+            "name": "Argentina"
+          }
+        }
+      ]
+    },
+    "away_team": {
+      "away_team_id": 771,
+      "away_team_name": "France",
+      "away_team_gender": "male",
+      "away_team_group": null,
+      "country": {
+        "id": 78,
+        "name": "France"
+      },
+      "managers": [
+        {
+          "id": 545,
+          "name": "Didier Deschamps",
+          "nickname": null,
+          "dob": "1968-10-15",
+          "country": {
+            "id": 78,
+            "name": "France"
+          }
+        }
+      ]
+    },
+    "home_score": 3,
+    "away_score": 3,
+    "match_status": "available",
+    "match_status_360": "available",
+    "last_updated": "2023-02-20T07:27:19.374380",
+    "last_updated_360": "2023-08-17T15:55:15.164685",
+    "metadata": {
+      "data_version": "1.1.0",
+      "shot_fidelity_version": "2",
+      "xy_fidelity_version": "2"
+    },
+    "match_week": 7,
+    "competition_stage": {
+      "id": 26,
+      "name": "Final"
+    },
+    "stadium": {
+      "id": 1001114,
+      "name": "Lusail Stadium",
+      "country": {
+        "id": 185,
+        "name": "Qatar"
+      }
+    },
+    "referee": {
+      "id": 367,
+      "name": "Szymon Marciniak",
+      "country": {
+        "id": 182,
+        "name": "Poland"
+      }
+    }
+  },
+  {
+    "match_id": 3869420,
+    "match_date": "2022-12-09",
+    "kick_off": "17:00:00.000",
+    "competition": {
+      "competition_id": 43,
+      "country_name": "International",
+      "competition_name": "FIFA World Cup"
+    },
+    "season": {
+      "season_id": 106,
+      "season_name": "2022"
+    },
+    "home_team": {
+      "home_team_id": 785,
+      "home_team_name": "Croatia",
+      "home_team_gender": "male",
+      "home_team_group": null,
+      "country": {
+        "id": 56,
+        "name": "Croatia"
+      },
+      "managers": [
+        {
+          "id": 307,
+          "name": "Zlatko Dali\u0107",
+          "nickname": null,
+          "dob": "1966-10-26",
+          "country": {
+            "id": 56,
+            "name": "Croatia"
+          }
+        }
+      ]
+    },
+    "away_team": {
+      "away_team_id": 781,
+      "away_team_name": "Brazil",
+      "away_team_gender": "male",
+      "away_team_group": null,
+      "country": {
+        "id": 31,
+        "name": "Brazil"
+      },
+      "managers": [
+        {
+          "id": 4704,
+          "name": "Tel\u00ea Santana da Silva",
+          "nickname": "Tel\u00ea Santana",
+          "dob": "1931-07-26",
+          "country": {
+            "id": 31,
+            "name": "Brazil"
+          }
+        }
+      ]
+    },
+    "home_score": 1,
+    "away_score": 1,
+    "match_status": "available",
+    "match_status_360": "available",
+    "last_updated": "2023-04-19T06:28:33.041249",
+    "last_updated_360": "2023-04-26T23:04:13.569501",
+    "metadata": {
+      "data_version": "1.1.0",
+      "shot_fidelity_version": "2",
+      "xy_fidelity_version": "2"
+    },
+    "match_week": 5,
+    "competition_stage": {
+      "id": 11,
+      "name": "Quarter-finals"
+    },
+    "stadium": {
+      "id": 94425,
+      "name": "Education City Stadium ",
+      "country": {
+        "id": 185,
+        "name": "Qatar"
+      }
+    },
+    "referee": {
+      "id": 1,
+      "name": "Michael Oliver",
+      "country": {
+        "id": 68,
+        "name": "England"
+      }
+    }
+  },
+  {
+    "match_id": 3869220,
+    "match_date": "2022-12-06",
+    "kick_off": "17:00:00.000",
+    "competition": {
+      "competition_id": 43,
+      "country_name": "International",
+      "competition_name": "FIFA World Cup"
+    },
+    "season": {
+      "season_id": 106,
+      "season_name": "2022"
+    },
+    "home_team": {
+      "home_team_id": 788,
+      "home_team_name": "Morocco",
+      "home_team_gender": "male",
+      "home_team_group": null,
+      "country": {
+        "id": 154,
+        "name": "Morocco"
+      },
+      "managers": [
+        {
+          "id": 1001086,
+          "name": "Hoalid Regragui",
+          "nickname": null,
+          "dob": "1975-09-23",
+          "country": {
+            "id": 154,
+            "name": "Morocco"
+          }
+        }
+      ]
+    },
+    "away_team": {
+      "away_team_id": 772,
+      "away_team_name": "Spain",
+      "away_team_gender": "male",
+      "away_team_group": null,
+      "country": {
+        "id": 214,
+        "name": "Spain"
+      },
+      "managers": [
+        {
+          "id": 793,
+          "name": "Luis Enrique Mart\u00ednez Garc\u00eda",
+          "nickname": "Luis Enrique",
+          "dob": "1970-05-08",
+          "country": {
+            "id": 214,
+            "name": "Spain"
+          }
+        }
+      ]
+    },
+    "home_score": 0,
+    "away_score": 0,
+    "match_status": "available",
+    "match_status_360": "available",
+    "last_updated": "2023-03-17T21:52:20.533981",
+    "last_updated_360": "2023-06-21T20:09:37.051885",
+    "metadata": {
+      "data_version": "1.1.0",
+      "shot_fidelity_version": "2",
+      "xy_fidelity_version": "2"
+    },
+    "match_week": 4,
+    "competition_stage": {
+      "id": 33,
+      "name": "Round of 16"
+    },
+    "stadium": {
+      "id": 94425,
+      "name": "Education City Stadium ",
+      "country": {
+        "id": 185,
+        "name": "Qatar"
+      }
+    },
+    "referee": {
+      "id": 1121,
+      "name": "Fernando Andr\u00e9s Rapallini",
+      "country": {
+        "id": 11,
+        "name": "Argentina"
+      }
+    }
+  },
+  {
+    "match_id": 3857284,
+    "match_date": "2022-11-23",
+    "kick_off": "15:00:00.000",
+    "competition": {
+      "competition_id": 43,
+      "country_name": "International",
+      "competition_name": "FIFA World Cup"
+    },
+    "season": {
+      "season_id": 106,
+      "season_name": "2022"
+    },
+    "home_team": {
+      "home_team_id": 770,
+      "home_team_name": "Germany",
+      "home_team_gender": "male",
+      "home_team_group": "E",
+      "country": {
+        "id": 85,
+        "name": "Germany"
+      },
+      "managers": [
+        {
+          "id": 3371,
+          "name": "Hans-Dieter Flick",
+          "nickname": null,
+          "dob": "1965-02-24",
+          "country": {
+            "id": 85,
+            "name": "Germany"
+          }
+        }
+      ]
+    },
+    "away_team": {
+      "away_team_id": 778,
+      "away_team_name": "Japan",
+      "away_team_gender": "male",
+      "away_team_group": "E",
+      "country": {
+        "id": 114,
+        "name": "Japan"
+      },
+      "managers": [
+        {
+          "id": 5699,
+          "name": "Hajime Moriyasu",
+          "nickname": null,
+          "dob": "1968-08-23",
+          "country": {
+            "id": 114,
+            "name": "Japan"
+          }
+        }
+      ]
+    },
+    "home_score": 1,
+    "away_score": 2,
+    "match_status": "available",
+    "match_status_360": "available",
+    "last_updated": "2023-03-18T22:38:08.361625",
+    "last_updated_360": "2023-04-27T00:40:34.335400",
+    "metadata": {
+      "data_version": "1.1.0",
+      "shot_fidelity_version": "2",
+      "xy_fidelity_version": "2"
+    },
+    "match_week": 1,
+    "competition_stage": {
+      "id": 10,
+      "name": "Group Stage"
+    },
+    "stadium": {
+      "id": 1000253,
+      "name": "Sheikh Khalifa International Stadium",
+      "country": {
+        "id": 185,
+        "name": "Qatar"
+      }
+    },
+    "referee": {
+      "id": 1834,
+      "name": "Ivan Arcides Barton Cisneros",
+      "country": {
+        "id": 67,
+        "name": "El Salvador"
+      }
+    }
+  },
+  {
+    "match_id": 3857300,
+    "match_date": "2022-11-22",
+    "kick_off": "12:00:00.000",
+    "competition": {
+      "competition_id": 43,
+      "country_name": "International",
+      "competition_name": "FIFA World Cup"
+    },
+    "season": {
+      "season_id": 106,
+      "season_name": "2022"
+    },
+    "home_team": {
+      "home_team_id": 779,
+      "home_team_name": "Argentina",
+      "home_team_gender": "male",
+      "home_team_group": "C",
+      "country": {
+        "id": 11,
+        "name": "Argentina"
+      },
+      "managers": [
+        {
+          "id": 5677,
+          "name": "Lionel Sebasti\u00e1n Scaloni",
+          "nickname": null,
+          "dob": "1978-05-16",
+          "country": {
+            "id": 11,
+            "name": "Argentina"
+          }
+        }
+      ]
+    },
+    "away_team": {
+      "away_team_id": 799,
+      "away_team_name": "Saudi Arabia",
+      "away_team_gender": "male",
+      "away_team_group": "C",
+      "country": {
+        "id": 200,
+        "name": "Saudi Arabia"
+      },
+      "managers": [
+        {
+          "id": 642,
+          "name": "Herv\u00e9 Renard",
+          "nickname": null,
+          "dob": "1968-09-30",
+          "country": {
+            "id": 78,
+            "name": "France"
+          }
+        }
+      ]
+    },
+    "home_score": 1,
+    "away_score": 2,
+    "match_status": "available",
+    "match_status_360": "available",
+    "last_updated": "2023-06-18T15:28:07.620153",
+    "last_updated_360": "2023-06-19T15:59:46.628887",
+    "metadata": {
+      "data_version": "1.1.0",
+      "shot_fidelity_version": "2",
+      "xy_fidelity_version": "2"
+    },
+    "match_week": 1,
+    "competition_stage": {
+      "id": 10,
+      "name": "Group Stage"
+    },
+    "stadium": {
+      "id": 1001114,
+      "name": "Lusail Stadium",
+      "country": {
+        "id": 185,
+        "name": "Qatar"
+      }
+    },
+    "referee": {
+      "id": 943,
+      "name": "Slavko Vin\u010di\u0107",
+      "country": {
+        "id": 208,
+        "name": "Slovenia"
+      }
+    }
+  }
+]
