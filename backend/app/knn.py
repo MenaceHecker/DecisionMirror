@@ -8,7 +8,7 @@ import pandas as pd
 from sklearn.neighbors import NearestNeighbors
 
 
-LABELS = ("W", "D", "L")  # from TEAM perspective in our API output
+LABELS = ("W", "D", "L")  # from the TEAM's perspective in our API output
 
 
 @dataclass
