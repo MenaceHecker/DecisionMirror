@@ -135,11 +135,11 @@ scenarios rather than claiming causal certainty.
 
 Potential extensions include:
 
--   Incorporating expected goals into the probability model
--   Modeling momentum using rolling possession value metrics
--   Classifying substitution types tactically
--   Building comparative decision profiles across managers
--   Extending to live match analysis
+Incorporating expected goals into the probability model
+Modeling momentum using rolling possession value metrics
+Classifying substitution types tactically
+Building comparative decision profiles across managers
+Extending to live match analysis
 
 ------------------------------------------------------------------------
 
