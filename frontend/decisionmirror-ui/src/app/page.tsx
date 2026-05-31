@@ -270,7 +270,7 @@ const peakDeltaPct: string | null =
         const lbl = `${home} vs ${away}`;
         const tag = stage ? ` • ${stage}` : "";
         if (!out.some((o) => o.id === id)) {
-          out.push({ id, label: `⭐ ${lbl}${tag}`, hint: team });
+          out.push({ id, label: ` ${lbl}${tag}`, hint: team });
         }
       }
       if (out.length >= 6) break;
@@ -707,7 +707,7 @@ const peakDeltaPct: string | null =
                 </div>
               ) : (
                 <div className="mt-6 rounded-2xl border bg-zinc-50 p-4 text-sm text-zinc-600">
-                  No turning points detected for this match (or data missing).
+                  No turning points detected for this match or data missing.
                 </div>
               )}
             </div>
