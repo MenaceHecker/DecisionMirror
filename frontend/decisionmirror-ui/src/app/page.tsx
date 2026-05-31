@@ -318,7 +318,7 @@ const peakDeltaPct: string | null =
               </h1>
               <p className="mt-2 max-w-2xl text-sm text-zinc-600">
                 Find match turning points and simulate “what-if” substitution
-                timing. Built on StatsBomb event data.
+                timing. This is built on StatsBomb event data.
               </p>
 
               <div className="mt-4 flex flex-wrap items-center gap-2">
